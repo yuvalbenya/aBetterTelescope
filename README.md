@@ -35,11 +35,13 @@ this part is implemented using open\_cv and star matching algorithms.
 Running example:
 
 here are 2 star pictures and their matches picture with the star matching algorithm 
-
-![תמונה שמכילה כוכב, בחוץ, לילה, מדרון
-
-התיאור נוצר באופן אוטומטי](Aspose.Words.1be7fa2d-b514-44ec-bb84-a8caeb2d5c16.001.jpeg) **![](Aspose.Words.1be7fa2d-b514-44ec-bb84-a8caeb2d5c16.002.jpeg)** 
+ 
+![alt text](http://https://github.com/yuvalbenya/aBetterTelescope/blob/main/star1.jpg)
+![alt text](http://https://github.com/yuvalbenya/aBetterTelescope/blob/main/star2.jpg)
 
 Match results:
 
-![](Aspose.Words.1be7fa2d-b514-44ec-bb84-a8caeb2d5c16.003.jpeg)   ![](Aspose.Words.1be7fa2d-b514-44ec-bb84-a8caeb2d5c16.004.jpeg)  
+![alt text](http://https://github.com/yuvalbenya/aBetterTelescope/blob/main/mstar1.jpg)
+![alt text](http://https://github.com/yuvalbenya/aBetterTelescope/blob/main/mstar2.jpg)
+
+
