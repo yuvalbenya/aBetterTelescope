@@ -36,12 +36,12 @@ Running example:
 
 here are 2 star pictures and their matches picture with the star matching algorithm 
  
-![alt text](http://https://github.com/yuvalbenya/aBetterTelescope/blob/main/star1.jpg)
-![alt text](http://https://github.com/yuvalbenya/aBetterTelescope/blob/main/star2.jpg)
+[(http://https://github.com](https://raw.githubusercontent.com/yuvalbenya/aBetterTelescope/blob/main/star1.jpg)
+[(http://https://github.com/](https://raw.githubusercontent.com/yuvalbenya/aBetterTelescope/blob/main/star2.jpg)
 
 Match results:
 
-![alt text](http://https://github.com/yuvalbenya/aBetterTelescope/blob/main/mstar1.jpg)
-![alt text](http://https://github.com/yuvalbenya/aBetterTelescope/blob/main/mstar2.jpg)
+[(http://https://github.com](https://raw.githubusercontent.com/yuvalbenya/aBetterTelescope/blob/main/mstar1.jpg)
+[(http://https://github.com/](https://raw.githubusercontent.com/yuvalbenya/aBetterTelescope/blob/main/mstar2.jpg)
 
 
