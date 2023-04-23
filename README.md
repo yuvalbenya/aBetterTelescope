@@ -1,3 +1,5 @@
+Authors: Yuval Ben Yaakov , Amit Kubani
+
 Question 1:
 
 Write a simple and effective algorithm to match two pictures - one with hundreds of stars and the other with 10-20 stars. Choose the simplest existing method in this section.
