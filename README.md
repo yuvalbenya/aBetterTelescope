@@ -10,7 +10,7 @@ Output: Transformed positions of stars in the second image to match the position
 - Calculate the brightness threshold for the image.
 - Convert the image to black and white based on the brightness threshold.
 - Identify stars in both images using a star detection algorithm (Harris Corner Detector, Laplacian of Gaussian (LoG))
-- For each star in the first image, compute its feature vector using a feature extraction algorithm.
+- For each star in the first image, compute its feature vector using a feature extraction algorithm. 
 - Compute the feature vector for each star in the second image using the same algorithm.
 - Use a feature matching algorithm to match the feature vectors of stars in both images, accounting for differences in brightness, color, and orientation.
 - Derive a transformation matrix that maps the coordinates of the matched stars in the second image to their corresponding positions in the first image using a method such as Least-Squares Estimation
@@ -23,19 +23,23 @@ For the feature matching algorithm, we use a randomized algorithm, therefore som
 
 Part2:
 
- in part2 we take as input all the images in the directory "db" and create a corresponding csv file for each pictures with all the stars coordinates
+in part2 we take as input all the images in the directory “db” and create a corresponding csv file for each pictures with all the stars coordinates
 
 Part3:
- in this part we use the csv to match between the stars in the images and create a new image with the match.
- this part is implemented using open\_cv and star matching algorithms.
+in this part we use the csv to match between the stars in the images and create a new image with the match.
+this part is implemented using open\_cv and star matching algorithms.
 
 
- Running example:
 
- here are 2 star pictures and their matches picture with the star matching algorithm
 
-![](RackMultipart20230423-1-7u9lxi_html_ee80654cbf010cb3.jpg) ![](RackMultipart20230423-1-7u9lxi_html_baacb358698dc604.jpg)
+Running example:
+
+here are 2 star pictures and their matches picture with the star matching algorithm 
+
+![תמונה שמכילה כוכב, בחוץ, לילה, מדרון
+
+התיאור נוצר באופן אוטומטי](Aspose.Words.1be7fa2d-b514-44ec-bb84-a8caeb2d5c16.001.jpeg) **![](Aspose.Words.1be7fa2d-b514-44ec-bb84-a8caeb2d5c16.002.jpeg)** 
 
 Match results:
 
-![](RackMultipart20230423-1-7u9lxi_html_b03c3b211ef80a9b.jpg) ![](RackMultipart20230423-1-7u9lxi_html_e43e60416a5391b9.jpg)
+![](Aspose.Words.1be7fa2d-b514-44ec-bb84-a8caeb2d5c16.003.jpeg)   ![](Aspose.Words.1be7fa2d-b514-44ec-bb84-a8caeb2d5c16.004.jpeg)  
