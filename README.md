@@ -32,6 +32,7 @@ in this part we use the csv to match between the stars in the images and create 
 this part is implemented using open\_cv and star matching algorithms.
 
 
+[+] check the results folder for additional results
 
 
 Running example:
